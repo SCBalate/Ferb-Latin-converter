@@ -20,13 +20,13 @@
     width: 60vw;
     padding:2em;
     margin-top: 5rem;
-   
+ opacity: 0.7;  
 }
 #txtara-op{
     width: 60vw;
     padding:2em;
     margin-top: 0rem;
-   
+   opacity:0.7;
 }
 #btn-translate{
     margin:auto;
